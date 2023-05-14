@@ -1,1 +1,1 @@
-# quick-cord
+# simpli-cord
